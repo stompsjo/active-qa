@@ -5,7 +5,7 @@ export DATA_DIR=$HOME/data
 mkdir $DATA_DIR
 
 # Download SearchQA dataset
-curl gdrive.sh | bash -s
+curl gdrive.sh | bash -s 1OxRhw81g7amW3aBd_iu2By5THysgr2uv
 unzip $DATA_DIR/SearchQA.zip -d $DATA_DIR
 
 # Download Glove
