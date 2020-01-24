@@ -1,10 +1,10 @@
-numpy
 absl-py
 google-apputils
 grpcio
 grpcio-tools
 keras
 nltk
+numpy
 pandas
 portpicker
 pygtrie
